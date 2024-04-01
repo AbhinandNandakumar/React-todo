@@ -10,7 +10,7 @@ https://abhinandnandakumar.github.io/task-tracker/
 ### 2.To install all packages
 npm install
 
-### To run on localhost
+### 3.To run on localhost
 npm start 
 
 
