@@ -1,11 +1,17 @@
-# A Todolist
+# A Task-tracker
 
-A small todolist using react
+A small task-tracker using react
 
+https://abhinandnandakumar.github.io/task-tracker/
 
+##To run this locally 
+### 1.Clone the repository 
 
-### Run `npm install` to install all packages
+### 2.To install all packages
+npm install
 
-### Run `npm run` to start the localhost
+### To run on localhost
+npm start 
+
 
 
